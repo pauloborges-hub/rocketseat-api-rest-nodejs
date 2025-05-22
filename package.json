@@ -1,0 +1,23 @@
+{
+  "name": "02-api-rest-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloborges-hub/rocketseat-api-rest-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloborges-hub/rocketseat-api-rest-nodejs/issues"
+  },
+  "homepage": "https://github.com/pauloborges-hub/rocketseat-api-rest-nodejs#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
